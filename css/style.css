@@ -27,21 +27,12 @@ section{
     padding: 30px;
 }
 
-.text-center{
-    text-align: center;
-}
-
 .extended-menu{
     display: none;
 }
 
-
 .black{
     background-color: #222;
-}
-
-.white{
-    background-color: white;
 }
 
 header, .button-blu{
@@ -100,6 +91,7 @@ header, .button-blu{
 .background{
     background-color: #b5ddff;
     border-radius: 20px;
+    text-align: center;
 }
 
 .col-double{
@@ -114,9 +106,6 @@ header, .button-blu{
 .flex{
     display: flex;
     flex-direction: column;
-}
-.col-30{
-    text-align: center;
 }
 
 .dimension-icon{
@@ -235,6 +224,54 @@ header, .button-blu{
     color: white;
 }
 /* FINE SECTION 3 */
+
+/* INIZIO SECTION 4 */
+.text-center{
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+    line-height: 2.5rem;
+    padding: 80px 0;
+    margin: 0 auto;
+}
+
+.back-sec4{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.sec4-h2, .sec4-h3{
+    color: #9792e4;
+}
+
+.sec4-h2{
+    font-size: 50px;
+}
+
+.sec4-h3{
+    font-size: 30px;
+    padding: 30px 0;
+}
+
+.sec4-p{
+    font-size: 15px;
+    line-height: 2rem;
+    color: gray;
+}
+
+.button-sec4{
+    margin: 30px 0;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #9792e4;
+    padding: 10px 60px;
+    border: none;
+    font-weight: bold;
+}
+
+
+/* FINE SECTION 4 */
+
 
 /* FINE MAIN */
 

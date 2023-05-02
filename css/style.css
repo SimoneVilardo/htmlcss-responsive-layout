@@ -94,7 +94,7 @@ header, .button-blu{
     font-size: 18px;
     display: flex;
     justify-content: space-around;
-    margin-left: 30px;
+    margin: 30px 0 30px 30px
 }
 
 .background{
@@ -187,6 +187,54 @@ header, .button-blu{
 }
 /* FINE SECTION 2 */
 
+/* INIZIO SECTION 3 */
+.text-testimonial{
+    text-align: center;
+}
+
+.sec3-h2{
+    color: #9792e4;
+    font-size: 35px;
+    padding: 30px 0;
+    line-height: 2.5rem;
+}
+
+.sec3-p{
+    font-size: 18px;
+    line-height: 2rem;
+    padding: 0 20px;
+}
+
+.col-100.back-testimonial{
+    background-color: #9792e4;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.img-testimonial{
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+.sec3-p2, .sec3-h3{
+    text-align: center;
+} 
+
+.sec3-p2{
+    font-size: 16px;
+    color: #fff;
+    line-height: 2rem;
+    padding: 20px 0;
+}
+
+.sec3-h3{
+    color: white;
+}
+/* FINE SECTION 3 */
 
 /* FINE MAIN */
 

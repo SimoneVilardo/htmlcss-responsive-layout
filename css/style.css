@@ -24,6 +24,7 @@ section{
 .col-double, .col-30, .col-50, .col-60, .col-40, .col-100{
     width: calc(100% - 20px);
     margin: 10px;
+    padding: 30px;
 }
 
 .text-center{
@@ -34,12 +35,6 @@ section{
     display: none;
 }
 
-
-
-
-.violet{
-    background-color: purple;
-}
 
 .black{
     background-color: #222;
@@ -84,7 +79,7 @@ header, .button-blu{
 
 /* INIZIO MAIN */
 
-
+/* INIZIO SECTION 1 */
 .h2-section1-blu{
     color: #0084fd;
     font-size: 25px;
@@ -139,6 +134,60 @@ header, .button-blu{
     line-height: 1.5rem;
     font-weight: bold;
 }
+/* FINE SECTION 1 */
+
+/* INIZIO SECTION 2 */
+.background-violet{
+    background-color: #9792e4;
+    padding:0 20px
+}
+
+.planning-img{
+    width: 100%;
+}
+
+.back-col-50-white{
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.mod-h2-sec2{
+    font-size: 25px;
+    color: #fff;
+    padding:20px 0;
+}
+
+.mod-p-sec2{
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+
+.mod-h3-sec2{
+    font-size: 22px;
+    padding: 20px;
+}
+
+.mod-p2-sec2{
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.5rem;
+    
+}
+
+.mod-arrow{
+    background-color: #9792e4;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    padding: 15px 15px;
+}
+/* FINE SECTION 2 */
+
+
 /* FINE MAIN */
 
 /* TABLET */

@@ -283,6 +283,71 @@ header, .button-blu{
 }
 /* FINE SECTION 5 */
 
+/* INIZIO SECTION 6 */
+
+.col-100.getstart p{
+    margin-top: 10px;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20px 20px;
+}
+
+.col-100.getstart h5{
+    margin-top: 10px;
+    color: #cbc9f1;
+    font-size: 18px;
+    line-height: 1.5;
+    padding: 20px 20px;
+}
+
+.col-100.getstart h2{
+    text-align: center;
+    font-size: 30px;
+    padding: 15px 0;
+    color: #fff;
+}
+
+.col-100.getstart h1{
+    text-align: center;
+    font-size: 60px;
+    padding: 20px 0;
+    color: #fdc15f;
+}
+
+.col-100.getstart p{
+    margin-top: 10px;
+    color: #fff;
+    font-size: 17px;
+    line-height: 1.7;
+    padding: 20px 9px;
+}
+
+.col-100.getstart button{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-start{
+    font-size: 16px;
+    color: #9792e4;
+    background-color: #fff;
+    border: none;
+    border-radius: 80px;
+    padding: 20px 80px;
+    margin: 0 auto;
+}
+
+.col-100.getstart p a{
+    text-decoration: underline;
+}
+
+.col-100.getstart p i{
+    font-size: 5px;
+    vertical-align: middle;
+}
+/* FINE SECTION 6 */
+
 
 
 /* FINE MAIN */
